@@ -1,3 +1,5 @@
+// A safe setInterval Alternative
+// Written by Luke Morton and Richard Willis, MIT licensed.
 (function() {
   var __bind = function(fn, me){ return function(){ return fn.apply(me, arguments); }; };
 
